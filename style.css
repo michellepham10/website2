@@ -13,6 +13,7 @@ img {
  width: 100px; 
 } 
 
-.video {
-  content-align: center;
+.video-container {
+  display: flex;
+  justify-content: center;
 }
